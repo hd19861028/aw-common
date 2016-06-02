@@ -1,6 +1,6 @@
 {
 	"name": "aw-common",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"repository": {},
 	"main": "common.js",
 	"author": {
