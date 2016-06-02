@@ -1,6 +1,6 @@
 {
 	"name": "aw-common",
-	"version": "1.0.4",
+	"version": "1.0.6",
 	"repository": {},
 	"main": "common.js",
 	"author": {
@@ -9,7 +9,7 @@
 	},
 	"dependencies": {
 		"crypto": "0.0.3",
-		"node-expat": "2.3.11",
+		"xml2js": "0.4.16",
 		"node-uuid": "1.4.7",
 		"bling-hashes": "1.1.1",
 		"formidable": "1.0.17",
